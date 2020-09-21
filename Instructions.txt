@@ -1,0 +1,1 @@
+This file is setup so that this can be used for setting up the base Git repository
